@@ -1,7 +1,12 @@
 Darcy theory : 
 
 
-$' \vec{u} = - \frac{K}{\mu} \nabla P '$
+ \vec{u} = - \frac{K}{\mu} \nabla P '$
+
+
+```math
+a^2+b^2=c^2
+```
 
 
 Continuity: $$ \nabla \cdot \vec{u} = 0 $$
