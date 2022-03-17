@@ -1,7 +1,7 @@
 Darcy theory : 
 
 ```math
-$$ \vec{u} = - \frac{K}{\mu} \nabla P $$
+\vec{u} = - \frac{K}{\mu} \nabla P
 ```
 Continuity: $$ \nabla \cdot \vec{u} = 0 $$
 B.C.: $$ P = 0 \; \text{at flow front}$$ $$ \vec{u} \cdot \vec{n} = 0 \; \text{at mould wall}$$
