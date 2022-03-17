@@ -3,6 +3,11 @@ Darcy theory :
 ```math
 \vec{u} = - \frac{K}{\mu} \nabla P
 ```
+% \f is defined as #1f(#2) using the macro
+\f\relax{x} = \int_{-\infty}^\infty
+    \f\hat\xi\,e^{2 \pi i \xi x}
+    \,d\xi
+
 Continuity: $$ \nabla \cdot \vec{u} = 0 $$
 B.C.: $$ P = 0 \; \text{at flow front}$$ $$ \vec{u} \cdot \vec{n} = 0 \; \text{at mould wall}$$
 Cure is exotermic. Analysis must be 3D. 
